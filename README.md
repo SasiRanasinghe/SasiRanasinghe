@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="[YOUR_BANNER_IMAGE_LINK](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT6dvuXLIJP6O8VSt3tReBOBQbkMM0hfgdiw&s)" width="100%" />
+  <img src="https://www.freepik.com/free-photos-vectors/girl-coding-banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sasi Ranasinghe</h1>
