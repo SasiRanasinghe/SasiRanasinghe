@@ -1,34 +1,74 @@
-# 👋 Hi, I'm Sasini Ranasinghe
+<!-- Banner -->
+<p align="center">
+  <img src="[YOUR_BANNER_IMAGE_LINK](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT6dvuXLIJP6O8VSt3tReBOBQbkMM0hfgdiw&s)" width="100%" />
+</p>
 
-💻 Full-Stack Developer | 📱 Mobile App Enthusiast | 🚀 Tech Explorer  
+<h1 align="center">Hi 👋, I'm Sasi Ranasinghe</h1>
+<h3 align="center">💻 Full Stack Developer | 📱 Mobile App Enthusiast | 🚀 Tech Explorer</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=22&center=true&vCenter=true&width=600&lines=Passionate+Developer;MERN+Stack+Enthusiast;Android+App+Builder;Always+Learning+New+Things" />
+</p>
 
 ---
 
-## 🎨 About Me
+## 🌸 About Me
 
-I'm a passionate developer who loves building web and mobile applications.  
-My journey in tech is fueled by curiosity and the desire to create impactful solutions.
-
-- 🔹 MERN Stack Developer
-- 🔹 Kotlin/Android Developer
-- 🔹 UI/UX Enthusiast
-- 🔹 Open-Source Contributor
+✨ I love building web & mobile applications  
+🚀 Currently working on real-world projects  
+🎯 Goal: Become a Professional Software Engineer  
+🌱 Always learning new technologies  
 
 ---
 
 ## 🛠 Tech Stack
 
 ### 🌐 Web Development
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind" />
+</p>
 
 ### 📱 Mobile Development
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,android,flutter" />
+</p>
+
+### 🎨 Design & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,git,vscode" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
-![Sasini's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&border_radius=10" width="48%" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 💌 Connect With Me
+
+<p align="center">
+  <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  ✨ Thank you for visiting my profile ✨
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+</p>
