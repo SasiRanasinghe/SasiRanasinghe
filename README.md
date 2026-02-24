@@ -1,74 +1,101 @@
-<!-- Banner -->
+<!-- 🌸 Soft Aesthetic Banner -->
 <p align="center">
-  <img src="https://www.freepik.com/premium-ai-image/woman-sits-desk-front-three-monitors-focused-coding-her-workspace-is-decorate_283597681.htm#fromView=keyword&page=2&position=8&uuid=a6233b45-ee7a-4325-8f8e-7db29e3f3168&query=Girl+coding+banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=200&section=header&text=Sasi%20Ranasinghe&fontSize=40&fontColor=ffffff" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Sasi Ranasinghe</h1>
-<h3 align="center">💻 Full Stack Developer | 📱 Mobile App Enthusiast | 🚀 Tech Explorer</h3>
+<h2 align="center">Hi 👋 I'm Sasi Ranasinghe</h2>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&size=22&center=true&vCenter=true&width=600&lines=Passionate+Developer;MERN+Stack+Enthusiast;Android+App+Builder;Always+Learning+New+Things" />
-</p>
+<h4 align="center">
+🎓 IT Undergraduate @ SLIIT <br>
+🎓 Diploma Holder - Wayamba IT Campus <br>
+👩‍🏫 IT Teacher | 💻 Full Stack Developer | 🎨 UI/UX Enthusiast
+</h4>
 
 ---
 
-## 🌸 About Me
+## 🌷 About Me
 
-✨ I love building web & mobile applications  
-🚀 Currently working on real-world projects  
-🎯 Goal: Become a Professional Software Engineer  
-🌱 Always learning new technologies  
+✨ Passionate IT undergraduate at **SLIIT**  
+🎓 Completed Diploma in IT at **Wayamba IT Campus**  
+👩‍🏫 Working as an **IT Teacher at an International School**  
+🎨 Deep love for **UI/UX Designing & Clean Interfaces**  
+💡 Always learning, always building  
+
+I believe technology + creativity = powerful solutions 💕
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Tech Universe
 
 ### 🌐 Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,php" />
 </p>
 
-### 📱 Mobile Development
+### 🗄 Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=kotlin,android,flutter" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 </p>
 
-### 🎨 Design & Tools
+### 🛠 Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=figma,vscode,git,github" />
 </p>
+
+---
+
+## 🎨 UI/UX Love Section
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250"/>
+</p>
+
+🌸 I love designing:
+- Clean dashboards  
+- Soft color palettes  
+- User-friendly mobile apps  
+- Simple & modern web interfaces  
+
+UI is not just design — it's experience ✨
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SasiRanasinghe&show_icons=true&theme=rose_pine&border_radius=15" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SasiRanasinghe&theme=rose_pine&border_radius=15" width="48%" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🌟 A Little More About Me
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" />
-</p>
+💗 Girl in Tech breaking stereotypes  
+📚 Teaching the next generation of IT students  
+🚀 Building real-world systems  
+🎯 Dream: Become a leading Software Engineer & UI/UX Specialist  
 
 ---
 
 ## 💌 Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="YOUR_EMAIL"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sasini-sathsarani-49b21b34a/">
+    <img src="https://img.shields.io/badge/LinkedIn-F48FB1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sasinisathsarani33@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-F8BBD0?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  ✨ Thank you for visiting my profile ✨
+  🌸 “Design with heart. Build with logic.” 🌸
 </p>
+
+<!-- 🌸 Footer -->
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F8BBD0&height=120&section=footer"/>
 </p>
