@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://www.freepik.com/free-photos-vectors/girl-coding-banner" width="100%" />
+  <img src="https://www.freepik.com/premium-ai-image/woman-sits-desk-front-three-monitors-focused-coding-her-workspace-is-decorate_283597681.htm#fromView=keyword&page=2&position=8&uuid=a6233b45-ee7a-4325-8f8e-7db29e3f3168&query=Girl+coding+banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sasi Ranasinghe</h1>
