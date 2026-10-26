@@ -94,6 +94,11 @@ I love the space where logic meets design. Soft palettes, clear user journeys an
 <div align="center">
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SasiRanasinghe/SasiRanasinghe/output/bloom-dark.svg">
+  <img src="https://raw.githubusercontent.com/SasiRanasinghe/SasiRanasinghe/output/bloom.svg" width="100%" alt="Contribution graph for the last 31 days">
+</picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SasiRanasinghe/SasiRanasinghe/output/snake-lavender-dark.svg">
   <img src="https://raw.githubusercontent.com/SasiRanasinghe/SasiRanasinghe/output/snake-lavender.svg" width="100%" alt="Lavender snake eating my contributions">
 </picture>
