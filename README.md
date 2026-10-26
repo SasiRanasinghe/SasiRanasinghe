@@ -45,15 +45,28 @@ I love the space where logic meets design. Soft palettes, clear user journeys an
 
 ### ✦ Selected work
 
+<div align="center">
+
+<a href="https://www.power-pizza.fi/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-powerpizza-dark.svg"><img src="./assets/card-powerpizza.svg" width="49%" alt=""></picture></a>
+<a href="https://jksports.lk/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-jksports-dark.svg"><img src="./assets/card-jksports.svg" width="49%" alt=""></picture></a>
+<a href="https://sasini-portfolio-topaz.vercel.app/#work"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-uniconnect-dark.svg"><img src="./assets/card-uniconnect.svg" width="49%" alt=""></picture></a>
+<a href="https://sasini-portfolio-topaz.vercel.app/#work"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/card-smartcampus-dark.svg"><img src="./assets/card-smartcampus.svg" width="49%" alt=""></picture></a>
+
+</div>
+
+<details>
+<summary><b>More projects</b></summary>
+<br>
+
 | Project | What it is | Built with |
 | :-- | :-- | :-- |
-| **[Power Pizza](https://www.power-pizza.fi/)** · *live* | Online ordering for an artisan pizzeria in Helsinki, with pickup, dine-in and delivery checkout | React · Vite · Node.js · MongoDB |
-| **[JK Sports](https://jksports.lk/)** · *live* | Sports equipment store with 1,400+ products across 56 categories | Next.js · React · TypeScript |
-| **UniConnect** | Student collaboration platform with peer matching, study session booking and a stress management module | React · Node.js · MongoDB · Docker |
-| **Smart Campus Operations Hub** | Resource booking with conflict detection, incident tickets and role-based access | React · Spring Boot · MongoDB |
 | **Air Ticket Management System** | Airline booking with flight scheduling, seat reservations and passenger records | React · TypeScript · PostgreSQL · Prisma |
+| **Restaurant Management & POS** | Order processing, billing, inventory and sales tracking | React · Tailwind · Express · PostgreSQL |
 | **Furniture Store POS** | Offline desktop point of sale with inventory, billing and invoices | Electron · React · PostgreSQL |
+| **Personal Finance Tracker** | Android app for income, expenses and budgets | Kotlin · SQLite |
 | **[Playwright Test Suite](https://github.com/SasiRanasinghe/IT3040_ITPM_Assignment1_IT23359888)** | End-to-end tests for a Singlish-to-Sinhala translator | Playwright · TypeScript |
+
+</details>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
@@ -67,6 +80,27 @@ I love the space where logic meets design. Soft palettes, clear user journeys an
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,nodejs,express,spring,java,postgres,mongodb,mysql,prisma,electron,kotlin,docker,git,figma&perline=10&theme=dark">
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css,nodejs,express,spring,java,postgres,mongodb,mysql,prisma,electron,kotlin,docker,git,figma&perline=10&theme=light" alt="React, Next.js, TypeScript, JavaScript, Tailwind, HTML, CSS, Node.js, Express, Spring Boot, Java, PostgreSQL, MongoDB, MySQL, Prisma, Electron, Kotlin, Docker, Git, Figma">
+</picture>
+
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/divider-dark.svg">
+  <img src="./assets/divider.svg" width="100%" alt="">
+</picture>
+
+### ✦ My coding garden
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SasiRanasinghe&bg_color=1A1428&color=DCC8FF&line=C3A6F5&point=DCBC7E&area=true&area_color=6B4FA0&hide_border=true&radius=16&title_color=DCC8FF&custom_title=Contribution%20bloom">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SasiRanasinghe&bg_color=F7F2FD&color=6B45B0&line=9670D6&point=B08A4E&area=true&area_color=D9C4F5&hide_border=true&radius=16&title_color=6B45B0&custom_title=Contribution%20bloom" width="100%" alt="Contribution graph">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SasiRanasinghe/SasiRanasinghe/output/snake-lavender-dark.svg">
+  <img src="https://raw.githubusercontent.com/SasiRanasinghe/SasiRanasinghe/output/snake-lavender.svg" width="100%" alt="Lavender snake eating my contributions">
 </picture>
 
 </div>
