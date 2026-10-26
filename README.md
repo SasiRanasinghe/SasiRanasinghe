@@ -94,11 +94,6 @@ I love the space where logic meets design. Soft palettes, clear user journeys an
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=SasiRanasinghe&bg_color=1A1428&color=DCC8FF&line=C3A6F5&point=DCBC7E&area=true&area_color=6B4FA0&hide_border=true&radius=16&title_color=DCC8FF&custom_title=Contribution%20bloom">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SasiRanasinghe&bg_color=F7F2FD&color=6B45B0&line=9670D6&point=B08A4E&area=true&area_color=D9C4F5&hide_border=true&radius=16&title_color=6B45B0&custom_title=Contribution%20bloom" width="100%" alt="Contribution graph">
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SasiRanasinghe/SasiRanasinghe/output/snake-lavender-dark.svg">
   <img src="https://raw.githubusercontent.com/SasiRanasinghe/SasiRanasinghe/output/snake-lavender.svg" width="100%" alt="Lavender snake eating my contributions">
 </picture>
