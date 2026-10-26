@@ -14,6 +14,8 @@ def fetch():
         data=json.dumps({"query": q, "variables": {"u": USER}}).encode(),
         headers={"Authorization": "bearer " + os.environ["GITHUB_TOKEN"], "Content-Type": "application/json"})
     data = json.load(urllib.request.urlopen(req))
+    if "errors" in data or not data.get("data", {}).get("user"):
+        sys.exit("GitHub API error: " + json.dumps(data)[:500])
     weeks = data["data"]["user"]["contributionsCollection"]["contributionCalendar"]["weeks"]
     days = [(d["date"], d["contributionCount"]) for w in weeks for d in w["contributionDays"]]
     return days[-31:]
