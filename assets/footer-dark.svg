@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120">
+<style>@keyframes s{0%{stroke-dashoffset:900}100%{stroke-dashoffset:0}}.t{stroke-dasharray:900;animation:s 4s ease both}</style>
+<text x="600" y="62" text-anchor="middle" font-family="Georgia,serif" font-size="30" font-style="italic" fill="#C3A6F5">Design beautifully. Code confidently.</text>
+<path class="t" d="M380 88 C 500 100, 700 100, 820 88" fill="none" stroke="#DCBC7E" stroke-width="1.2"/>
+<text x="600" y="112" text-anchor="middle" font-size="12" fill="#DCBC7E">✦</text>
+</svg>

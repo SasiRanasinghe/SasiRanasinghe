@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="40" viewBox="0 0 1200 40">
+<style>@keyframes p{50%{opacity:.35}}.s{animation:p 3s ease-in-out infinite}</style>
+<defs><linearGradient id="l" gradientUnits="userSpaceOnUse" x1="200" y1="0" x2="570" y2="0"><stop offset="0" stop-color="#DCBC7E" stop-opacity="0"/><stop offset="1" stop-color="#DCBC7E"/></linearGradient>
+<linearGradient id="r" gradientUnits="userSpaceOnUse" x1="630" y1="0" x2="1000" y2="0"><stop offset="0" stop-color="#DCBC7E"/><stop offset="1" stop-color="#DCBC7E" stop-opacity="0"/></linearGradient></defs>
+<line x1="200" y1="20" x2="570" y2="20" stroke="url(#l)"/><line x1="630" y1="20" x2="1000" y2="20" stroke="url(#r)"/>
+<text x="600" y="27" text-anchor="middle" font-size="18" fill="#DCBC7E" class="s">✦</text>
+<text x="582" y="25" text-anchor="middle" font-size="9" fill="#C3A6F5">✦</text><text x="618" y="25" text-anchor="middle" font-size="9" fill="#C3A6F5">✦</text>
+</svg>

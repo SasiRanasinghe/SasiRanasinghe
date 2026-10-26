@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340">
+<style>
+@keyframes fall{from{transform:translate(0,0)}50%{transform:translate(var(--s),190px)}to{transform:translate(0,380px)}}
+@keyframes shimmer{0%{transform:translateX(-700px)}60%,100%{transform:translateX(900px)}}
+@keyframes rise{from{opacity:0;transform:translateY(18px)}to{opacity:1;transform:none}}
+@keyframes draw{from{stroke-dashoffset:420}to{stroke-dashoffset:0}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes twinkle{50%{opacity:.25}}
+.n{font-family:Georgia,'Times New Roman',serif;animation:rise 1.2s cubic-bezier(.2,.8,.2,1) both}
+.m{font-family:'SFMono-Regular',Consolas,'Liberation Mono',monospace}
+.sh{animation:shimmer 5s ease-in-out 1.2s infinite}
+.ring{stroke-dasharray:420;animation:draw 2s ease .2s both}
+.star{transform-origin:1040px 170px;animation:spin 18s linear infinite}
+.tw{animation:twinkle 2.6s ease-in-out infinite}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F7F2FD"/><stop offset="1" stop-color="#ECE3F8"/></linearGradient>
+<radialGradient id="glow" cx=".85" cy=".1" r=".55"><stop offset="0" stop-color="#8A63CC" stop-opacity=".28"/><stop offset="1" stop-color="#8A63CC" stop-opacity="0"/></radialGradient>
+<linearGradient id="foil" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#E3C68E" stop-opacity=".9"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<linearGradient id="hair" gradientUnits="userSpaceOnUse" x1="80" y1="0" x2="420" y2="0"><stop offset="0" stop-color="#A8823F"/><stop offset="1" stop-color="#A8823F" stop-opacity="0"/></linearGradient>
+<clipPath id="card"><rect width="1200" height="340" rx="28"/></clipPath>
+<clipPath id="txt"><text x="80" y="215" class="n" font-size="88" font-style="italic">Ranasinghe</text></clipPath>
+</defs>
+<g clip-path="url(#card)">
+<rect width="1200" height="340" fill="url(#bg)"/>
+<rect width="1200" height="340" fill="url(#glow)"/>
+<g style="animation:fall 7.9s linear -12.8s infinite;--s:30px"><ellipse cx="507" cy="-10" rx="2.8" ry="5.1" fill="#F3BCD8" opacity="0.61" transform="rotate(155 507 -10)"/></g><g style="animation:fall 10.3s linear -7.7s infinite;--s:-20px"><ellipse cx="46" cy="-10" rx="3.4" ry="6.2" fill="#F3BCD8" opacity="0.56" transform="rotate(140 46 -10)"/></g><g style="animation:fall 13.0s linear -3.2s infinite;--s:-20px"><ellipse cx="995" cy="-10" rx="2.4" ry="4.4" fill="#F3BCD8" opacity="0.53" transform="rotate(3 995 -10)"/></g><g style="animation:fall 13.7s linear -0.6s infinite;--s:-30px"><ellipse cx="151" cy="-10" rx="2.0" ry="3.6" fill="#D9C4F5" opacity="0.56" transform="rotate(99 151 -10)"/></g><g style="animation:fall 12.6s linear -6.2s infinite;--s:-20px"><ellipse cx="894" cy="-10" rx="2.4" ry="4.4" fill="#D9C4F5" opacity="0.39" transform="rotate(34 894 -10)"/></g><g style="animation:fall 13.8s linear -6.1s infinite;--s:20px"><ellipse cx="1033" cy="-10" rx="2.1" ry="3.8" fill="#D9C4F5" opacity="0.58" transform="rotate(98 1033 -10)"/></g><g style="animation:fall 9.9s linear -3.3s infinite;--s:20px"><ellipse cx="738" cy="-10" rx="2.7" ry="4.9" fill="#F3BCD8" opacity="0.76" transform="rotate(7 738 -10)"/></g><g style="animation:fall 11.7s linear -2.3s infinite;--s:20px"><ellipse cx="592" cy="-10" rx="3.6" ry="6.5" fill="#F3BCD8" opacity="0.76" transform="rotate(145 592 -10)"/></g><g style="animation:fall 8.5s linear -11.6s infinite;--s:20px"><ellipse cx="233" cy="-10" rx="3.0" ry="5.5" fill="#D9C4F5" opacity="0.41" transform="rotate(123 233 -10)"/></g><g style="animation:fall 12.6s linear -5.7s infinite;--s:-20px"><ellipse cx="1010" cy="-10" rx="1.8" ry="3.3" fill="#B79BE6" opacity="0.48" transform="rotate(106 1010 -10)"/></g><g style="animation:fall 11.3s linear -0.6s infinite;--s:20px"><ellipse cx="263" cy="-10" rx="1.7" ry="3.2" fill="#F3BCD8" opacity="0.75" transform="rotate(71 263 -10)"/></g><g style="animation:fall 7.3s linear -0.1s infinite;--s:-30px"><ellipse cx="1055" cy="-10" rx="2.1" ry="3.8" fill="#F3BCD8" opacity="0.59" transform="rotate(50 1055 -10)"/></g><g style="animation:fall 8.8s linear -9.7s infinite;--s:20px"><ellipse cx="855" cy="-10" rx="2.2" ry="4.0" fill="#D9C4F5" opacity="0.51" transform="rotate(35 855 -10)"/></g><g style="animation:fall 13.1s linear -5.4s infinite;--s:-30px"><ellipse cx="793" cy="-10" rx="2.4" ry="4.3" fill="#F3BCD8" opacity="0.79" transform="rotate(129 793 -10)"/></g><g style="animation:fall 12.0s linear -3.3s infinite;--s:20px"><ellipse cx="575" cy="-10" rx="2.5" ry="4.5" fill="#D9C4F5" opacity="0.79" transform="rotate(133 575 -10)"/></g><g style="animation:fall 7.1s linear -5.8s infinite;--s:20px"><ellipse cx="640" cy="-10" rx="2.7" ry="4.9" fill="#B79BE6" opacity="0.52" transform="rotate(150 640 -10)"/></g><g style="animation:fall 11.4s linear -6.5s infinite;--s:20px"><ellipse cx="292" cy="-10" rx="1.8" ry="3.2" fill="#F3BCD8" opacity="0.67" transform="rotate(125 292 -10)"/></g><g style="animation:fall 13.7s linear -0.3s infinite;--s:20px"><ellipse cx="65" cy="-10" rx="2.8" ry="5.1" fill="#D9C4F5" opacity="0.63" transform="rotate(76 65 -10)"/></g><g style="animation:fall 8.3s linear -10.6s infinite;--s:20px"><ellipse cx="675" cy="-10" rx="2.0" ry="3.6" fill="#D9C4F5" opacity="0.70" transform="rotate(26 675 -10)"/></g><g style="animation:fall 11.8s linear -1.8s infinite;--s:-20px"><ellipse cx="75" cy="-10" rx="3.5" ry="6.4" fill="#F3BCD8" opacity="0.71" transform="rotate(61 75 -10)"/></g><g style="animation:fall 10.0s linear -9.8s infinite;--s:-30px"><ellipse cx="691" cy="-10" rx="2.0" ry="3.7" fill="#F3BCD8" opacity="0.49" transform="rotate(85 691 -10)"/></g><g style="animation:fall 13.0s linear -2.4s infinite;--s:20px"><ellipse cx="479" cy="-10" rx="2.5" ry="4.5" fill="#F3BCD8" opacity="0.64" transform="rotate(145 479 -10)"/></g>
+</g>
+<rect x="1" y="1" width="1198" height="338" rx="27" fill="none" stroke="#A8823F" stroke-opacity=".45"/>
+<rect x="12" y="12" width="1176" height="316" rx="20" fill="none" stroke="#A8823F" stroke-opacity=".18"/>
+<line x1="80" y1="58" x2="112" y2="58" stroke="#A8823F"/>
+<text x="124" y="63" class="m" font-size="13" letter-spacing="3.5" fill="#A8823F">FULL-STACK DEVELOPER · UI/UX DESIGNER</text>
+<text x="80" y="135" class="n" font-size="64" fill="#2B1D3A" style="animation-delay:.1s">Sasini</text>
+<text x="80" y="215" class="n" font-size="88" font-style="italic" fill="#8A63CC" style="animation-delay:.35s">Ranasinghe</text>
+<g clip-path="url(#txt)"><rect class="sh" x="0" y="110" width="160" height="140" fill="url(#foil)" transform="skewX(-20)"/></g>
+<line x1="80" y1="250" x2="420" y2="250" stroke="url(#hair)"/>
+<text x="80" y="288" font-family="Georgia,serif" font-size="19" fill="#6E5F80">Building calm, beautiful software from Sri Lanka</text>
+<circle class="ring" cx="1040" cy="170" r="66" fill="none" stroke="#A8823F" stroke-width="1.2"/>
+<circle cx="1040" cy="170" r="80" fill="none" stroke="#A8823F" stroke-opacity=".35" stroke-dasharray="2 7"/>
+<g class="star"><text x="1040" y="96" text-anchor="middle" font-size="16" fill="#A8823F">✦</text></g>
+<text x="1040" y="190" text-anchor="middle" class="n" font-size="54" font-style="italic" fill="#A8823F" style="animation-delay:.6s">SR</text>
+<text x="905" y="70" font-size="12" fill="#A8823F" class="tw">✦</text>
+<text x="1140" y="290" font-size="10" fill="#8A63CC" class="tw" style="animation-delay:-1.3s">✦</text>
+</svg>
